@@ -1,6 +1,3 @@
-**(As for me, I didn't like this Assignment, hope you did)**
-** Grigory **
-
 ### Introduction
 
 This second programming assignment will require you to write an R
